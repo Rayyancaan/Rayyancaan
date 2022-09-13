@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Python, Sklearn, Pandas, numpy and Streamlit**
 
-- 📫 How to reach me **theshahidaziz@gmail.com**
+
 
 - 📄 Know about my experiences [https://github.com/akahrs/LoL_Final_Project](https://github.com/akahrs/LoL_Final_Project)
 
-- ⚡ Fun fact **I speak 5 languages and it will 6-7 by the end of next year**
+- ⚡ Fun fact **I speak 5 languages and it will be 6-7 by the end of next year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
